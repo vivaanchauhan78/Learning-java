@@ -18,7 +18,8 @@ Next, I built a simple Random number generator and a coin flipper to learn how t
 <img width="379" height="93" alt="image" src="https://github.com/user-attachments/assets/47ea6d91-17de-491b-a44a-0855aa79b580" />
 </br>
 LEVEL UP 7
-</hr>
+</br>
+
 # PROJECT 3
 After that, I built a calculator, which took me a while. It could do simple operations like multiplication, division, addition, and subtraction
 <img width="1514" height="996" alt="image" src="https://github.com/user-attachments/assets/60216f3c-651d-4672-bc33-fd96bd98d02e" />

@@ -7,6 +7,7 @@ This is a simple yet funny project, I ask the use for input like " enter a verb 
 ![image](https://github.com/user-attachments/assets/f1f67034-a06c-4407-8844-32ebbfeb1d18)
 
 Even tho this is a simple project, It took me about 1.75-2 hrs to make.
+
 </br>
 #LEVEL UP
 </br>LEVEL 3
